@@ -1,2 +1,2 @@
 # Open-Lineage
-Code regarding open lineage
+Contains producer and consumer code for running Open Lineage
